@@ -35,7 +35,7 @@ auth-system/
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/auth-system.git
+git clone https://github.com/Kizuypy/auth-system.git
 cd auth-system
 ```
 
